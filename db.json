@@ -1,0 +1,53 @@
+{
+  "countries": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "country": "India",
+      "id": 3
+    }
+  ],
+  "cities": [
+    {
+      "city": "Bhadohi",
+      "population": "3232",
+      "id": 1
+    },
+    {
+      "city": "Bhadohi",
+      "population": "3232",
+      "country": "",
+      "id": 2
+    },
+    {
+      "city": "Bhadohi",
+      "population": "3232",
+      "id": 3
+    },
+    {
+      "city": "Bhadohi",
+      "population": "3232",
+      "id": 4
+    },
+    {
+      "city": "qwe",
+      "population": "25454",
+      "id": 5
+    },
+    {
+      "city": "Bhadohi",
+      "population": "25454",
+      "id": 6
+    },
+    {
+      "city": "Bhadohi",
+      "population": "3232",
+      "country": "",
+      "id": 7
+    }
+  ]
+}
